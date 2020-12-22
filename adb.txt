@@ -1,0 +1,100 @@
+[Adblock Plus 2.0]
+! Title: Motja Personal AD Filter List
+! Expires: 1 days (update frequency)
+! Version: 1
+! Last modified: 22 Dec 2020
+! Homepage: https://github.com/motjagit/motjaadb
+! License: https://mit-license.org/
+! Description: Personal filter
+!-------------------------------------------------------------------------------
+||*.dps.live/hls-segment/emoltv2/
+||static.emol.cl/emol50/js/contador_comentarios
+||segreader.emol.cl/Latest?action=findSectionGetImage&section=A
+||imgtv.ecn.cl/uploads/
+||proxyimg.ecn.cl/120/imgclasificados
+||static.emol.cl/emol50/img/logo_amarillas_bus_input.png
+||static.emol.cl/emol50/js/comments
+||mediaserver.emol.cl/javascripts/cube/
+||static.emol.cl/emol50/js/publicidad
+||ssl.google-analytics.com/ga.js
+||static.emol.cl/emol50/js/economicos
+||cache-elastic.ecn.cl/propiedades/
+||kiosco.latercera.com/latest-issue-cover-image
+||cdn.rudo.video/upload/cl2/latercera/
+||unlimited15-cl.dps.live/vod/cl2/latercera/
+||merreader.emol.cl/
+||imgcomentarista.emol.cl
+||cache-comentarios.ecn.cl/Comments/Api
+||static.emol.cl/emol50/js/masComentados
+||emol.com/_portada/cajasecciones/cajamascomentados.aspx
+||emol.com/Detalle/Cajas/cajaMasVistas.aspx
+||emol.com/Detalle/Cajas/cajaMejorComentados.aspx
+||static.emol.cl/emol50/js/encuestas
+||static.emol.cl/emol50/js/comentarios
+||static.emol.cl/emol50/js/comment.
+||static.emol.cl/emol50/js/cajasAjaxDetalle.
+||static.emol.cl/emol50/css/comment_realtime.
+||emol.com/_portada/cajasecciones/cajajuegos
+||emol.com/Detalle/Cajas/cajaNoticiasMVS
+||*.dps.live/dunatv/
+||*.dps.live/vod/cl2/latercera/
+||emol.cl/emol50/js/jq.ui.select.autos
+||connect.facebook.net
+||apis.google.com/js/plusone
+||apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.es.SA54Azugjmg.O/m=plusone
+||delivery.adxion.com/pixel
+||pram.elmercurio.com/API
+||apps.emol.com/bt/rdb.pram
+||static.emol.cl/emol50/js/Copyright
+||static.emol.cl/emol50/js/notificaciones
+||platform.instagram.com/en_US/embeds
+||platform.twitter.com/widgets
+||player.twitch.tv?channel=alienware
+||embed.twitch.tv/embed
+||player.twitch.tv/js/embed/
+||discordapp.com/widget
+||pillowagecredulous.com
+||reparting.cloudplane.xyz
+||latercera.com/arc/subs/p.js
+||rudo.video
+||youtube.com/$domain=alienwarearena.com
+||instagram.com##.RnEpo
+||instagram.com##body:style(overflow:auto!important)
+emol.com##div#LocastilloCont
+emol.com##div#economicosSidebarProp
+emol.com##div#economicosSidebar
+emol.com##div#contenedor_caja2
+emol.com##div#header_programas_logo2
+emol.com##div#revistas_mercurio
+latercera.com##div#digi-paper
+latercera.com##.suscription
+latercera.com##.spm
+latercera.com##.clublt
+latercera.com##div.publi-gtd
+latercera.com##div.brand-cchc2
+latercera.com##div.anews-container
+latercera.com##div.brand-card-alt
+latercera.com##div.brand-mngtd2
+latercera.com##div.empty
+emol.com##div.cont_n_mas_vis_emol
+emol.tv##div.cont_rank_social_comentarios
+emol.com##div#JuegosCont
+emol.com##div#comment_real_time
+latercera.com##div.live-streaming
+9gag.com#?#article:-abp-has(> header > div > p > a:-abp-contains(Promoted))
+9gag.com#?#article:-abp-has(> div > div > iframe)
+9gag.com#?#article:-abp-has(> div.post-container > div > div > div)
+9gag.com##div.inline-ad-container
+emol.com##div.cont_caja_busc_motores
+emol.com##div.cont_bg_autos_emol
+alienwarearena.com##div.ad-container
+reddit.com#?#div:-abp-has(> h1:-abp-contains(Find people who want to chat))
+latercera.com##div.brand-cl-em
+latercera.com##div.br-entel-em
+latercera.com##div.br-arb-wr
+genshin-impact-map.appsample.com##div#topnav
+fandom.com##div.banner-notifications-placeholder
+fandom.com##div#WikiaBar
+fandom.com##div.wds-global-navigation__content-bar-left
+investing.com##div#abPopup
+instagram.com##.tHaIX.Igw0E.IwRSH.pmxbr.YBx95._4EzTm.CIRqI.IY_1_.XfCBB.HcJZg.O1flK.D8xaz._7JkPY.TxciK.N9d2H.ZUqME
