@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Motja Personal AD Filter List
-! Expires: 1 days (update frequency)
-! Version: 1
-! Last modified: 22 Dec 2020
+! Expires: 5 days (update frequency)
+! Version: 1.1
+! Last modified: 09 Jan 2024
 ! Homepage: https://github.com/motjagit/motjaadb
 ! License: https://mit-license.org/
 ! Description: Personal filter
@@ -98,3 +98,33 @@ fandom.com##div#WikiaBar
 fandom.com##div.wds-global-navigation__content-bar-left
 investing.com##div#abPopup
 instagram.com##.tHaIX.Igw0E.IwRSH.pmxbr.YBx95._4EzTm.CIRqI.IY_1_.XfCBB.HcJZg.O1flK.D8xaz._7JkPY.TxciK.N9d2H.ZUqME
+latercera.com##.msg-suscriptor
+emol.com###ucHomePage_cuShopLive_cont_shopLive
+emol.com##.cont_bt_shop_live
+emol.com##.cont_ultimo_minuto
+emol.com###car_shopping
+emol.com##.car_top
+||videosetv.ecn.cl
+||latercera.com/resizer/mT34aDYLGs417ZMDU1S18kLABiU=/arc-anglerfish-arc2-prod-copesa/public/46WCO5YRZZB7LKPS57BZIEGIZU.gif
+latercera.com##.especial-cancer
+||latercera.com/resizer/-YvkDrTUJy6jWlBXAv6y2KFlekU=/arc-anglerfish-arc2-prod-copesa/public/I6O5QU4V35BUDNT2W3PFZVGATI.png
+latercera.com##.transbank-logo
+latercera.com##.parapanamericanos-logo
+www.weekinmobiliario.cl
+latercera.com##.menu-medios.container
+latercera.com##.parapanamericanos-container
+latercera.com##.middle-mainy
+latercera.com##.middle-sidebary
+emol.com###publi_right
+latercera.com##.grid-qatar
+||accounts.google.com/gsi/*
+||formulario.latercera.com/newsletters/embed/la-tercera-pm/
+latercera.com##script:contains(paywall)
+latercera.com##.pwall-big
+cxense.com
+latercera.com##.pwall-giant
+key-hub.eu##script:contains(fc-ab-root)
+key-hub.eu##script:contains(adblock)
+||formulario.latercera.com/newsletters/embed/pulso-pm/
+key-hub.eu##.fc-ab-root
+latercera.com##.art-container.image_marcador_headline_deck
